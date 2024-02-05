@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:wght@400;500;600;700&display=swap');
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.selectedContainer{
+  background-color: #ffffff;
+  border: 5px solid #f2f2f2;
+  height: 50%;
+  width: 100%;
+  padding: 1em;
+  border-radius: 5px;
+}
+ul > li {
+  list-style-type: none;
+  text-align: left;
+}
+table{
+  background-color: #f2f2f2;
+  text-align: left ;
+  padding: .5em;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+td{
+  padding:.3em .5em;
+}
